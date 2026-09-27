@@ -1,0 +1,7 @@
+INPUT:
+Artificial intelligence is being adopted across many industries to automate tasks, analyze data, improve customer experiences, and support decision-making. Machine learning allows systems to learn patterns from data, while deep learning uses neural networks for more complex tasks. Generative AI can create text, images, code, and other content. Organizations must also consider privacy, security, bias, reliability, and responsible AI practices.
+
+OUTPUT:
+• AI is increasingly used for automation, data analysis, customer experiences, and decision-making.
+• Machine learning, deep learning, and generative AI enable systems to learn patterns and generate different types of content.
+• AI adoption requires attention to privacy, security, bias, reliability, and responsible use.
